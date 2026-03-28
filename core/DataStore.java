@@ -1,3 +1,4 @@
+// Singleton DataStore for managing application data
 package com.ccrm.core;
 
 import com.ccrm.model.*;
