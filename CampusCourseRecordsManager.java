@@ -1,3 +1,4 @@
+// Main entry point for CCRM system
 package com.ccrm;
 
 import com.ccrm.core.DataStore;
