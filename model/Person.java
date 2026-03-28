@@ -1,3 +1,4 @@
+// Model class representing person entity
 package com.ccrm.model;
 
 import java.time.LocalDate;
