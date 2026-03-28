@@ -1,3 +1,4 @@
+// Model class representing student entity
 package com.ccrm.model;
 
 import java.time.LocalDate;
