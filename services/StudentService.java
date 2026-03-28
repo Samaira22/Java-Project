@@ -1,3 +1,4 @@
+// Service layer handling business logic for student operations
 package com.ccrm.services;
 
 import com.ccrm.core.DataStore;
